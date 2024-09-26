@@ -34,6 +34,5 @@
 
 ###
 
-<img align="right" height="10" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
